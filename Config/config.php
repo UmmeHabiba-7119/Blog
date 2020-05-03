@@ -1,7 +1,7 @@
 <?php
 
-  define ('DS_HOST','localhost');
-  define ('DS_USER','root');
-  define ('DS_PASS','');
-  define ('DS_NAME','magajblog');
+  define ('DB_HOST','localhost');
+  define ('DB_USER','root');
+  define ('DB_PASS','');
+  define ('DB_NAME','magajblog');
  ?>
