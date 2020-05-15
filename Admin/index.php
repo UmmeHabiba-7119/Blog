@@ -1,7 +1,6 @@
 <?php
     require_once '../functions/admin.php';
     $page_content->getContent('header');
-
  ?>
         <!-- Begin Page Content -->
         <div class="container-fluid">
